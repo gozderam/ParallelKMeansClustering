@@ -40,3 +40,6 @@ To run a choosen algorithm you need to uncomment an appropriate line in main fun
 
 ## Test data
 In folders *n_centroids_data*, *N_objects_data* and *test_data* you can find some random test input data. First two folders contains data files with dfferernt program parameters (number of coordinates or objects) and the last folder - data allowing to easily check how the algorithm works. 
+
+## Technology
+C++ with Nvidia CUDA.
